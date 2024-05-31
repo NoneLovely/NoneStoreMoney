@@ -1,1 +1,2 @@
 # NoneStoreMoney
+спасибо за покупку

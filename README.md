@@ -1,2 +1,2 @@
-# NoneStoreMoney
+# NoneStore
 спасибо за покупку
